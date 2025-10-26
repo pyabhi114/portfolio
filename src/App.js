@@ -151,7 +151,7 @@ function App() {
       tech: "Derivatives, Volatility Modeling",
       description: "3+ years as research & technical assistant in derivatives modeling & volatility optimization.",
       features: ["Academic research", "Model development", "Technical implementation"],
-      outcome: "Multiple research papers published",
+      outcome: "Contributed to research and development of quantitative models under expert mentorship.",
       badge: "Research Project",
       icon: <TrendingUp className="w-6 h-6" />
     }
