@@ -267,11 +267,13 @@ function App() {
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-              Engineering data-driven trading systems and research frameworks powered by{' '}
-              <span className="text-cyber-blue font-semibold">Python</span>,{' '}
-              <span className="text-cyber-blue font-semibold">machine learning</span>, and{' '}
-              <span className="text-cyber-blue font-semibold">market microstructure analytics</span>.
+              Developing systematic trading solutions rooted in{' '}
+              <span className="text-cyber-blue font-semibold">statistical modelling</span> —{' '}
+              <span className="text-cyber-blue font-semibold">mean-variance optimisation</span>,{' '}
+              <span className="text-cyber-blue font-semibold">deviation-based signals</span>, and{' '}
+              <span className="text-cyber-blue font-semibold">machine learning</span>.
             </p>
+
 
             <div className="flex flex-wrap justify-center gap-4 mb-12">
               <button
